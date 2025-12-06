@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-12-06)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`7764a25`](https://github.com/stdlib-js/stdlib/commit/7764a25a72cab240473982486844795e42787673) - **bench:** refactor to use string interpolation in `array/base/bifurcate-indices-by` [(#8850)](https://github.com/stdlib-js/stdlib/pull/8850) _(by ashutoshsao)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   ashutoshsao
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-29)
